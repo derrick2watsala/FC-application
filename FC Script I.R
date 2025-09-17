@@ -1,1 +1,7 @@
-I am Derrick Watsala the father of Theophilus Uwasse
+install.packages("usethis")
+library(usethis)
+
+Add text 
+
+My name is the Father
+
